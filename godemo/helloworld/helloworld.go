@@ -1,5 +1,5 @@
 package helloworld
 
-func Print() string {
-	return "Hello world"
+func Print(input string) string {
+	return "Hello world " + input
 }
