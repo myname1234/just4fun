@@ -1,3 +1,3 @@
-module example.com/go-demo-1
+module godemo
 
 go 1.18
